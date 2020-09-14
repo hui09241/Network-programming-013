@@ -1,0 +1,5 @@
+兩個Client互傳
+
+說明：本週範例程式實現server與client傳送檔案。請延伸至兩台client連至一個Server時，
+
+兩個Client傳送檔案(透過server轉傳)
